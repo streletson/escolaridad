@@ -1,0 +1,48 @@
+body{background-color: greenyellow;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+#caja1{
+    /*background-color: rgb(4, 105, 30);
+    width: 300px;
+    height: 300px; */
+    justify-content: center;
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    
+}
+#boton{
+    border-radius: 10%;
+    margin-top: 200px;
+    
+}
+#tanque1{
+    height: 250px;
+    width: 250px;
+} 
+#tanque2{
+    height: 250px;
+    width: 250px;
+}
+#img1{
+    background-color: rgb(4, 105, 30);
+    width: 300px;
+    height: 300px;
+    left: 50px;
+    margin-right: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#img2{
+    background-color: rgb(4, 105, 30);
+    width: 300px;
+    height: 300px;
+    margin-left: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
